@@ -1,0 +1,17 @@
+module.exports={
+    google:{
+        clientID:'547504324770-3u3o83vvnvcakohbom6sneodqdsj3cs3.apps.googleusercontent.com',
+        clientSecret:'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'
+    },
+mongodb:
+{
+    MONGO_URL:'mongodb://127.0.0.1:27017/login'
+},
+session:{
+    cookie:"OuthAuthenticationWebsite"
+},
+token:{
+secret:"c8a8437677fcfab679f92c8470ffc34b932f5aaa3296c09f652d2becfe1db8b2",
+refresh:"074e48c8e3c0bc19f9e22dd7570037392e5d0bf80cf9dd51bb7808872a511b3"
+}
+}
